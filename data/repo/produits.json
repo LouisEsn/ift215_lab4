@@ -11,6 +11,90 @@
             "nom": "Prunier",
             "description": "Un poirier est une espèce d'arbre qui offre de bons suppléments"
         }
+    },{
+        "id": 0,
+        "serial": "we23545",
+        "nom": "Banane",
+        "description": "Un poirier est une espèce d'arbre qui offre de bons suppléments",
+        "prix": 24.76,
+        "qte_inventaire": 164,
+        "categorie": {
+            "id": 1,
+            "nom": "Prunier",
+            "description": "Un poirier est une espèce d'arbre qui offre de bons suppléments"
+        }
+    },{
+        "id": 0,
+        "serial": "we23545",
+        "nom": "Banane",
+        "description": "Un poirier est une espèce d'arbre qui offre de bons suppléments",
+        "prix": 24.76,
+        "qte_inventaire": 164,
+        "categorie": {
+            "id": 1,
+            "nom": "Prunier",
+            "description": "Un poirier est une espèce d'arbre qui offre de bons suppléments"
+        }
+    },{
+        "id": 0,
+        "serial": "we23545",
+        "nom": "Banane",
+        "description": "Un poirier est une espèce d'arbre qui offre de bons suppléments",
+        "prix": 24.76,
+        "qte_inventaire": 164,
+        "categorie": {
+            "id": 1,
+            "nom": "Prunier",
+            "description": "Un poirier est une espèce d'arbre qui offre de bons suppléments"
+        }
+    },{
+        "id": 0,
+        "serial": "we23545",
+        "nom": "Banane",
+        "description": "Un poirier est une espèce d'arbre qui offre de bons suppléments",
+        "prix": 24.76,
+        "qte_inventaire": 164,
+        "categorie": {
+            "id": 1,
+            "nom": "Prunier",
+            "description": "Un poirier est une espèce d'arbre qui offre de bons suppléments"
+        }
+    },{
+        "id": 0,
+        "serial": "we23545",
+        "nom": "Banane",
+        "description": "Un poirier est une espèce d'arbre qui offre de bons suppléments",
+        "prix": 24.76,
+        "qte_inventaire": 164,
+        "categorie": {
+            "id": 1,
+            "nom": "Prunier",
+            "description": "Un poirier est une espèce d'arbre qui offre de bons suppléments"
+        }
+    },{
+        "id": 0,
+        "serial": "we23545",
+        "nom": "Banane",
+        "description": "Un poirier est une espèce d'arbre qui offre de bons suppléments",
+        "prix": 24.76,
+        "qte_inventaire": 164,
+        "categorie": {
+            "id": 1,
+            "nom": "Prunier",
+            "description": "Un poirier est une espèce d'arbre qui offre de bons suppléments"
+        }
+    },{
+        "id": 0,
+        "serial": "we23545",
+        "nom": "Banane",
+        "description": "Un poirier est une espèce d'arbre qui offre de bons suppléments",
+        "prix": 24.76,
+        "qte_inventaire": 164,
+        "categorie": {
+            "id": 1,
+            "nom": "Prunier",
+            "description": "Un poirier est une espèce d'arbre qui offre de bons suppléments"
+        }
     },
     {
         "id": 1,
